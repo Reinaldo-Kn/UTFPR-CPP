@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1661388664 source:d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\main.cpp
+	<iostream>
+	<locale>
+	"disciplina.h"
+
+1661199414 d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\professor.h
+	<string>
+
+1661199616 source:d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\professor.cpp
+	"professor.h"
+
+1661374738 source:d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\aluno.cpp
+	"aluno.h"
+
+1661374414 d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\aluno.h
+	<string>
+
+1661436135 source:d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\disciplina.cpp
+	"disciplina.h"
+
+1661435982 d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 4 - classes\sistemaacademico\disciplina.h
+	<string>
+	<vector>
+	"professor.h"
+	"aluno.h"
+

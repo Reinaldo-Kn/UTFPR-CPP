@@ -2,7 +2,7 @@
 // retornando um bool, sendo true caso seja primo e false se for par
 
 #include<iostream>
-#include </home/aluno/Documentos/oop/termcolor.hpp>
+#include </home/reinaldo/Documentos/UTFPR-CPP/oop/termcolor.hpp>
 
 using namespace std;
 int main()
