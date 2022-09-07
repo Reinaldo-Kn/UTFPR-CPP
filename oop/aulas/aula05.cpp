@@ -27,8 +27,8 @@ class Carro
 {
 	Pessoa* dono;    // alteração para ponteiro e mudança no getter/setter
 public:
-	 void setDono(Pessoa* p){
-	 	dono =p;
+	 void setDono(Pessoa* pi){
+	 	dono =pi;
 	 }
 	 Pessoa* getDono(){
 	 	return dono;
