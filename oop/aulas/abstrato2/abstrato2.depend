@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663201880 source:d:\utfpr\2022_2\fundamentos_de_oo\aulas\aula 7 - polimorfismo estático - sobrescrita\abstrato2\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+
