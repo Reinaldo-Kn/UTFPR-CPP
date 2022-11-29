@@ -1,5 +1,5 @@
 
-# OOP com CPP
+# OOP com CPP.
 
 
 Arquivos usados nas aulas de OOP da UTFPR
